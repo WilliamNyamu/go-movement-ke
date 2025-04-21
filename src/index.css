@@ -10,7 +10,7 @@ body {
 
 @layer components {
     .hero-section {
-        background-image:  linear-gradient(to right, rgba(223, 223, 224, 0.8), rgba(201, 195, 218, 0.8)), url('./assets/images//hero-image.jpeg');
+        background-image:  linear-gradient(to right, rgba(149, 149, 173, 0.8), rgba(227, 223, 238, 0.8)), url('./assets/images//hero-image.jpeg');
         background-size: cover;
         background-color: center
     }
