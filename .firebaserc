@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "go-movement-ke-trial",
+    "go-movement-ke": "go-movement-ke-trial"
+  },
+  "targets": {},
+  "etags": {}
+}
